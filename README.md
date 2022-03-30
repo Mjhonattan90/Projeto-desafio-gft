@@ -1,6 +1,6 @@
-# desafio-dio-bancodigital
-Utilizar dos conhecimento em Programação Orientada a Objetos (POO) em Java.
+# <u>Desafio dio bancodigital</u>
+Utilizei dos conhecimento em Programação Orientada a Objetos em Java passados no bootcamp da GFT  e montei esta estrutura.
 
-## DESAFIO DE PROJETO
-Utilizar dos pilares da orientação a objetos no contexto bancário.
-Desenvolver a capacidade de abstração reproduzindo uma solução. 
+## *DESAFIO DE PROJETO*
+Montar um banco digital com funções simples.
+
